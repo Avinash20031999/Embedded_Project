@@ -43,3 +43,7 @@ The buttons have to be switched on before the app starts working. Potentiometer 
 
 # Build Badge
 [![CI](https://github.com/Avinash20031999/M2_SeatHeatingSystem/actions/workflows/main.yml/badge.svg)](https://github.com/Avinash20031999/M2_SeatHeatingSystem/actions/workflows/main.yml)
+
+
+# CppCheck
+[![cppcheck-action](https://github.com/Avinash20031999/M2_SeatHeatingSystem/actions/workflows/c-cppxyz.yml/badge.svg)](https://github.com/Avinash20031999/M2_SeatHeatingSystem/actions/workflows/c-cppxyz.yml)
