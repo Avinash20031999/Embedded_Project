@@ -29,6 +29,7 @@ The buttons have to be switched on before the app starts working. Potentiometer 
 |3.|Issues in workflows|Fixed them by updating the path to all files correctly|
 
 
+# Badges :
 
 # Code Quality Score
 ![code quality score](https://api.codiga.io/project/32913/score/svg)
