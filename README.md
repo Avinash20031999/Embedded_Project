@@ -39,3 +39,7 @@ The buttons have to be switched on before the app starts working. Potentiometer 
 
 # Codacy Badge
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/eeb206cff74047208401ca7ad23140c1)](https://www.codacy.com/gh/Avinash20031999/M2_SeatHeatingSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Avinash20031999/M2_SeatHeatingSystem&amp;utm_campaign=Badge_Grade)
+
+
+# Build Badge
+[![CI](https://github.com/Avinash20031999/M2_SeatHeatingSystem/actions/workflows/main.yml/badge.svg)](https://github.com/Avinash20031999/M2_SeatHeatingSystem/actions/workflows/main.yml)
