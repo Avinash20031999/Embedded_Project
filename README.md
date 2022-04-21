@@ -32,3 +32,7 @@ The buttons have to be switched on before the app starts working. Potentiometer 
 
 # Code Quality Score
 ![code quality score](https://api.codiga.io/project/32913/score/svg)
+
+
+# Code Grade
+![code grade](https://api.codiga.io/project/32913/status/svg)
