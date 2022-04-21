@@ -27,3 +27,8 @@ The buttons have to be switched on before the app starts working. Potentiometer 
 |1.|On the simulide latest version some sources are not available|By the help of connect class solved|
 |2.|Issues in implementation|Fixed them by making template in order|
 |3.|Issues in workflows|Fixed them by updating the path to all files correctly|
+
+
+
+# Code Quality Score
+![code quality score](https://api.codiga.io/project/32913/score/svg)
